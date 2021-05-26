@@ -1,2 +1,2 @@
 #  python
- exercicios de python do cursoemvideo feitos por mim
+ exercicios de python 
