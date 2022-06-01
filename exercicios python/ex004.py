@@ -1,8 +1,0 @@
-n = input('Digite algo: ')
-print('Tem o tipo primitivo: ', type(n))
-print('É númerico? ', n.isnumeric())
-print('É alfabético? ', n.isalpha())
-print('Tem letras maiúsculas? ', n.isupper())
-print('Tem letras minúsculas? ', n.islower())
-print('Tem espaços? ', n.isspace())
-print('Está capitalizada? ', n.istitle())
